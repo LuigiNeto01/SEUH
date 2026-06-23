@@ -1,0 +1,333 @@
+{
+  "penances": [
+    {
+      "id": 0,
+      "nome": "Jejum de Bebidas",
+      "descritivo": "Durante todo o dia, beba apenas água, renunciando a outras bebidas como forma de penitência.",
+      "tags": ["jejum", "temperança"],
+      "dificuldade": 2
+    },
+    {
+      "id": 1,
+      "nome": "Banho Frio",
+      "descritivo": "Tome banho com água fria e ofereça esse desconforto físico como exercício de mortificação.",
+      "tags": ["mortificação"],
+      "dificuldade": 2
+    },
+    {
+      "id": 2,
+      "nome": "Sono Simples",
+      "descritivo": "Durma sem travesseiro ou sem cobertor, renunciando a uma pequena comodidade corporal.",
+      "tags": ["mortificação", "disciplina"],
+      "dificuldade": 1
+    },
+    {
+      "id": 3,
+      "nome": "Conversa Honesta com Deus",
+      "descritivo": "Separe 10 minutos para conversar com Deus de forma sincera, falando sobre seu dia, alegrias, tristezas e preocupações.",
+      "tags": ["oração"],
+      "dificuldade": 1
+    },
+    {
+      "id": 4,
+      "nome": "Abstinência de Carne",
+      "descritivo": "Não coma carne durante o dia, oferecendo essa renúncia como prática de abstinência e penitência.",
+      "tags": ["abstinência", "jejum"],
+      "dificuldade": 2
+    },
+    {
+      "id": 5,
+      "nome": "Sem Beliscos",
+      "descritivo": "Evite comer entre as refeições, exercitando o domínio dos impulsos e a virtude da temperança.",
+      "tags": ["jejum", "temperança"],
+      "dificuldade": 2
+    },
+    {
+      "id": 6,
+      "nome": "Comer sem Escolher",
+      "descritivo": "Coma até o fim algo de que você não gosta muito, renunciando a pequenos prazeres do paladar.",
+      "tags": ["jejum", "mortificação"],
+      "dificuldade": 1
+    },
+    {
+      "id": 7,
+      "nome": "Um Dia sem Reclamar",
+      "descritivo": "Passe o dia sem reclamar de nada, aceitando os desconfortos cotidianos sem murmuração.",
+      "tags": ["paciência", "disciplina"],
+      "dificuldade": 3
+    },
+    {
+      "id": 8,
+      "nome": "Postura de Disciplina",
+      "descritivo": "Mantenha a postura ereta ao longo do dia, combatendo a busca constante por conforto físico.",
+      "tags": ["mortificação", "disciplina"],
+      "dificuldade": 3
+    },
+    {
+      "id": 9,
+      "nome": "Caminho Mais Difícil",
+      "descritivo": "Sempre que possível, caminhe em vez de usar transporte, oferecendo esse esforço físico como sacrifício.",
+      "tags": ["mortificação", "sacrifício"],
+      "dificuldade": 3
+    },
+    {
+      "id": 10,
+      "nome": "Menos Celular",
+      "descritivo": "Reduza o uso do celular durante o dia e renuncie a distrações desnecessárias.",
+      "tags": ["desapego", "disciplina"],
+      "dificuldade": 2
+    },
+    {
+      "id": 11,
+      "nome": "Silêncio Musical",
+      "descritivo": "Não ouça música durante o dia, renunciando ao entretenimento para cultivar o recolhimento interior.",
+      "tags": ["desapego", "recolhimento"],
+      "dificuldade": 3
+    },
+    {
+      "id": 12,
+      "nome": "Jejum de Rede Social",
+      "descritivo": "Passe o dia inteiro sem entrar em uma rede social que você costuma usar com frequência.",
+      "tags": ["mortificação", "desapego"],
+      "dificuldade": 2
+    },
+    {
+      "id": 13,
+      "nome": "Presente de Desapego",
+      "descritivo": "Compre um presente para outra pessoa, exercitando o desapego aos bens materiais e o amor ao próximo.",
+      "tags": ["desapego", "caridade"],
+      "dificuldade": 3
+    },
+    {
+      "id": 14,
+      "nome": "Oração por Quem é Difícil Amar",
+      "descritivo": "Reze por 10 minutos por uma pessoa de quem você não gosta, praticando o mandamento de amar os inimigos.",
+      "tags": ["oração", "caridade"],
+      "dificuldade": 3
+    },
+    {
+      "id": 15,
+      "nome": "Doação Concreta",
+      "descritivo": "Doe algo a alguém que precise, praticando o espírito de pobreza, humildade e caridade.",
+      "tags": ["desapego", "caridade"],
+      "dificuldade": 3
+    },
+    {
+      "id": 16,
+      "nome": "Elogio Sincero",
+      "descritivo": "Faça um elogio verdadeiro a alguém e torne o dia dessa pessoa um pouco mais leve.",
+      "tags": ["caridade"],
+      "dificuldade": 1
+    },
+    {
+      "id": 17,
+      "nome": "Sem Doces",
+      "descritivo": "Não coma doces durante o dia, renunciando a um prazer simples como exercício de abstinência.",
+      "tags": ["abstinência", "temperança"],
+      "dificuldade": 2
+    },
+    {
+      "id": 18,
+      "nome": "Consolar Quem Sofre",
+      "descritivo": "Procure consolar alguém que esteja passando por um momento difícil, levando atenção, escuta e esperança.",
+      "tags": ["caridade"],
+      "dificuldade": 1
+    },
+    {
+      "id": 19,
+      "nome": "Rezar o Terço",
+      "descritivo": "Dedique um tempo do seu dia para rezar o Terço com calma e devoção.",
+      "tags": ["oração", "devoção"],
+      "dificuldade": 3
+    },
+    {
+      "id": 20,
+      "nome": "Missa Durante a Semana",
+      "descritivo": "Vá à Santa Missa em um dia que não seja domingo, buscando maior união com Cristo pela Eucaristia.",
+      "tags": ["oração", "eucaristia"],
+      "dificuldade": 3
+    },
+    {
+      "id": 21,
+      "nome": "Adoração Eucarística",
+      "descritivo": "Faça 15 minutos de Adoração Eucarística em uma igreja, permanecendo em oração diante de Jesus Sacramentado.",
+      "tags": ["oração", "eucaristia"],
+      "dificuldade": 3
+    },
+    {
+      "id": 22,
+      "nome": "Leitura Espiritual",
+      "descritivo": "Leia um trecho da Bíblia ou de algum livro espiritual, alimentando a alma por meio da reflexão.",
+      "tags": ["oração", "leitura"],
+      "dificuldade": 2
+    },
+    {
+      "id": 23,
+      "nome": "Exame de Consciência Profundo",
+      "descritivo": "Faça um exame de consciência sério, refletindo sobre seus pecados recentes e buscando não repeti-los hoje.",
+      "tags": ["conversão", "oração"],
+      "dificuldade": 3
+    },
+    {
+      "id": 24,
+      "nome": "Oração de Joelhos",
+      "descritivo": "Ajoelhe-se e reze por 10 minutos, renunciando ao conforto e voltando o coração para Jesus.",
+      "tags": ["oração", "mortificação"],
+      "dificuldade": 3
+    },
+    {
+      "id": 25,
+      "nome": "Silêncio Absoluto",
+      "descritivo": "Permaneça 30 minutos em silêncio absoluto, silenciando as distrações para pensar em Deus e desacelerar.",
+      "tags": ["oração", "silêncio"],
+      "dificuldade": 3
+    },
+    {
+      "id": 26,
+      "nome": "Caridade Difícil",
+      "descritivo": "Faça o bem a alguém de quem você não gosta ou a alguém que você não conhece.",
+      "tags": ["caridade", "humildade"],
+      "dificuldade": 3
+    },
+    {
+      "id": 27,
+      "nome": "Pai Nosso de Braços Abertos",
+      "descritivo": "Reze o Pai Nosso lentamente, com os braços abertos, imitando a postura da cruz.",
+      "tags": ["mortificação", "oração"],
+      "dificuldade": 1
+    },
+    {
+      "id": 28,
+      "nome": "Falar de Jesus",
+      "descritivo": "Fale de Nosso Senhor Jesus Cristo para outra pessoa, levando a fé de forma simples e verdadeira.",
+      "tags": ["caridade", "evangelização"],
+      "dificuldade": 2
+    },
+    {
+      "id": 29,
+      "nome": "Atenção a Quem Precisa",
+      "descritivo": "Visite ou ligue para um idoso ou doente, oferecendo atenção, companhia e conforto.",
+      "tags": ["caridade"],
+      "dificuldade": 2
+    },
+    {
+      "id": 30,
+      "nome": "Oração ao Longo do Dia",
+      "descritivo": "Dedique vários momentos do dia à oração mental, lembrando-se de Deus e conversando com Ele com simplicidade.",
+      "tags": ["oração", "meditação"],
+      "dificuldade": 2
+    },
+    {
+      "id": 31,
+      "nome": "Gratidão na Contrariedade",
+      "descritivo": "Agradeça a Deus por algo que aconteceu e que você não gostou, cultivando confiança mesmo nas situações difíceis.",
+      "tags": ["oração", "gratidão"],
+      "dificuldade": 3
+    },
+    {
+      "id": 32,
+      "nome": "Tempo Oferecido",
+      "descritivo": "Sacrifique parte do seu tempo para ajudar alguém, colocando a necessidade do próximo acima da sua.",
+      "tags": ["oferta", "caridade"],
+      "dificuldade": 2
+    },
+    {
+      "id": 33,
+      "nome": "Mate a Procrastinação",
+      "descritivo": "Comece nos próximos minutos aquilo que você está adiando há muito tempo.",
+      "tags": ["disciplina"],
+      "dificuldade": 3
+    },
+    {
+      "id": 34,
+      "nome": "Mate a Preguiça",
+      "descritivo": "Comece agora alguma coisa que você estava evitando fazer por preguiça.",
+      "tags": ["disciplina"],
+      "dificuldade": 2
+    },
+    {
+      "id": 35,
+      "nome": "Mate o Egoísmo",
+      "descritivo": "Divida com alguém algo de que você gosta, exercitando generosidade e desapego.",
+      "tags": ["caridade", "desapego"],
+      "dificuldade": 2
+    },
+    {
+      "id": 36,
+      "nome": "Meditação sobre a Eternidade",
+      "descritivo": "Medite por 10 minutos sobre a morte, o juízo e o fim da vida terrena.",
+      "tags": ["oração", "meditação"],
+      "dificuldade": 1
+    },
+    {
+      "id": 37,
+      "nome": "Renúncia ao Conforto",
+      "descritivo": "Renuncie a algum luxo ou conforto desnecessário que você tenha hoje.",
+      "tags": ["desapego", "sobriedade"],
+      "dificuldade": 2
+    },
+    {
+      "id": 38,
+      "nome": "Via Sacra",
+      "descritivo": "Faça a Via Sacra, meditando a Paixão de Cristo em cada estação.",
+      "tags": ["oração", "meditação"],
+      "dificuldade": 2
+    },
+    {
+      "id": 39,
+      "nome": "Negue-se a Si Mesmo",
+      "descritivo": "Faça agora aquilo que você não quer fazer, oferecendo esse esforço como mortificação.",
+      "tags": ["mortificação", "disciplina"],
+      "dificuldade": 3
+    },
+    {
+      "id": 40,
+      "nome": "Ler um Salmo",
+      "descritivo": "Leia um Salmo com atenção, acolhendo a Palavra de Deus com calma.",
+      "tags": ["oração", "leitura"],
+      "dificuldade": 1
+    },
+    {
+      "id": 41,
+      "nome": "O Que Me Afasta de Deus",
+      "descritivo": "Medite por 20 minutos sobre tudo aquilo que tem afastado você de Deus.",
+      "tags": ["oração", "conversão"],
+      "dificuldade": 2
+    },
+    {
+      "id": 42,
+      "nome": "Olhe para o Céu",
+      "descritivo": "Largue o celular e olhe para o céu por 5 minutos, pensando em Deus com simplicidade.",
+      "tags": ["meditação", "oração"],
+      "dificuldade": 1
+    },
+    {
+      "id": 43,
+      "nome": "Contemplar Cristo Crucificado",
+      "descritivo": "Contemple uma imagem de Jesus crucificado e peça perdão, de forma sincera, pela vida que levou até hoje.",
+      "tags": ["oração", "conversão"],
+      "dificuldade": 1
+    },
+    {
+      "id": 44,
+      "nome": "Recordar as Graças",
+      "descritivo": "Pense por 5 minutos nas graças que Deus já lhe concedeu e medite sobre o amor dEle por você.",
+      "tags": ["oração", "gratidão"],
+      "dificuldade": 1
+    },
+    {
+      "id": 45,
+      "nome": "Honrar Pai e Mãe",
+      "descritivo": "Converse com sua mãe ou seu pai, escutando com carinho e oferecendo atenção verdadeira.",
+      "tags": ["caridade", "família"],
+      "dificuldade": 2
+    },
+    {
+      "id": 46,
+      "nome": "Amor Declarado",
+      "descritivo": "Diga \"eu te amo\" para alguém próximo de forma verdadeira e consciente.",
+      "tags": ["caridade", "amor"],
+      "dificuldade": 3
+    }
+  ]
+}
