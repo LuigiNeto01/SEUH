@@ -1,5 +1,6 @@
 # Seuh
 
+
 Aplicativo Android de penitências diárias desenvolvido em Flutter.
 
 O Seuh sorteia uma penitência espiritual por dia para o usuário, incentivando práticas de mortificação, oração, caridade e disciplina cristã. O resultado é bloqueado até a meia-noite do dia seguinte, e uma notificação diária lembra o usuário de revelar sua nova penitência.
